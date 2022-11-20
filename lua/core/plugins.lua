@@ -49,6 +49,7 @@ return require('packer').startup(function()
 	use 'nvim-treesitter/nvim-treesitter'
 	use 'simrat39/rust-tools.nvim'
 	use 'simrat39/symbols-outline.nvim'
+  -- use 'rust-lang/rust.vim'
 
 	-- git
 	use {
