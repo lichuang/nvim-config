@@ -25,6 +25,7 @@ require("core.keymaps")
 --require("core.dvorak")	-- delete this line if you don't like using DVORAK
 require("core.plugins")
 require("core.gui")
+require("core.formatter")
 -- disable some useless standard plugins to save startup time
 -- these features have been better covered by plugins
 vim.g.loaded_matchparen        = 1

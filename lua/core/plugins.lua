@@ -51,6 +51,9 @@ return require('packer').startup(function()
 	use 'simrat39/symbols-outline.nvim'
   -- use 'rust-lang/rust.vim'
 
+  -- format
+  use 'mhartington/formatter.nvim'
+
 	-- git
 	use {
 		'lewis6991/gitsigns.nvim',
