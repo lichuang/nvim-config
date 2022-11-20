@@ -13,7 +13,7 @@
 1. This setup uses packer.nvim for the package manager, so first install packer.nvim by following the [official instructions](https://github.com/wbthomason/packer.nvim#quickstart)
 2. Clone this repo into `~/.config/nvim`:
 ```
-git clone https://github.com/leslie255/nvim-config.git ~/.config/nvim
+git clone https://github.com/lichuang/nvim-config.git ~/.config/nvim
 ```
 3. When you first enter `nvim`, you will see a bunch of mess because the plugins aren't installed yet, so run `:PackerInstall` to install the plugins
 
